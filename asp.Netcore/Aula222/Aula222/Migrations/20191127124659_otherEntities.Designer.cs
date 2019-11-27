@@ -4,14 +4,16 @@ using Aula222.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Aula222.Migrations
 {
     [DbContext(typeof(Aula222Context))]
-    partial class Aula222ContextModelSnapshot : ModelSnapshot
+    [Migration("20191127124659_otherEntities")]
+    partial class otherEntities
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
