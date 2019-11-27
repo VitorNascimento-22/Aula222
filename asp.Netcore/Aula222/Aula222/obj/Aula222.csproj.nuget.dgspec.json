@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitor.nascimento\\Documents\\estudo\\asp .Net core\\Aula222\\Aula222\\Aula222.csproj": {}
+    "C:\\Users\\vitor.nascimento\\Documents\\estudo\\asp.Netcore\\Aula222\\Aula222\\Aula222.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitor.nascimento\\Documents\\estudo\\asp .Net core\\Aula222\\Aula222\\Aula222.csproj": {
+    "C:\\Users\\vitor.nascimento\\Documents\\estudo\\asp.Netcore\\Aula222\\Aula222\\Aula222.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitor.nascimento\\Documents\\estudo\\asp .Net core\\Aula222\\Aula222\\Aula222.csproj",
+        "projectUniqueName": "C:\\Users\\vitor.nascimento\\Documents\\estudo\\asp.Netcore\\Aula222\\Aula222\\Aula222.csproj",
         "projectName": "Aula222",
-        "projectPath": "C:\\Users\\vitor.nascimento\\Documents\\estudo\\asp .Net core\\Aula222\\Aula222\\Aula222.csproj",
+        "projectPath": "C:\\Users\\vitor.nascimento\\Documents\\estudo\\asp.Netcore\\Aula222\\Aula222\\Aula222.csproj",
         "packagesPath": "C:\\Users\\vitor.nascimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitor.nascimento\\Documents\\estudo\\asp .Net core\\Aula222\\Aula222\\obj\\",
+        "outputPath": "C:\\Users\\vitor.nascimento\\Documents\\estudo\\asp.Netcore\\Aula222\\Aula222\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vitor.nascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
