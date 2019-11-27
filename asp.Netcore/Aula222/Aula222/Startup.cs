@@ -28,7 +28,8 @@ namespace Aula222
             services.AddControllersWithViews();
 
             services.AddDbContext<Aula222Context>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("Aula222Context")));
+                    options.UseSqlServer(Configuration.GetConnectionString("Aula222Context"), builder =>
+                        builder.MigrationsAssembly("Aula222")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
