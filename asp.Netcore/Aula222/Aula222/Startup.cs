@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Aula222.Models;
 using Aula222.Data;
+using Aula222.Services;
 
 namespace Aula222
 {
@@ -33,6 +34,8 @@ namespace Aula222
                         builder.MigrationsAssembly("Aula222")));
 
             services.AddScoped<SeedingService>();
+            services.AddScoped<SellerService>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
