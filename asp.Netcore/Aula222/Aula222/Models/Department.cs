@@ -20,6 +20,11 @@ namespace Aula222.Models
             Name = name;
         }
 
+        public Department(string name)
+        {
+            Name = name;
+        }
+
         public void addSeller(Seller seller)
         {
             Sellers.Add(seller);
