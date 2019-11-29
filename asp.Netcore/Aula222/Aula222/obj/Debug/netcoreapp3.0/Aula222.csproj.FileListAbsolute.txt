@@ -259,3 +259,4 @@ C:\Users\vitor.nascimento\Documents\estudo\asp.Netcore\Aula222\Aula222\obj\Debug
 C:\Users\vitor.nascimento\Documents\estudo\asp.Netcore\Aula222\Aula222\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\vitor.nascimento\Documents\estudo\asp.Netcore\Aula222\Aula222\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\vitor.nascimento\Documents\estudo\asp.Netcore\Aula222\Aula222\obj\Debug\netcoreapp3.0\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\vitor.nascimento\Documents\estudo\asp.Netcore\Aula222\Aula222\obj\Debug\netcoreapp3.0\Razor\Views\Sellers\Create.cshtml.g.cs
